@@ -1,7 +1,7 @@
 # Packet-Tracer-Two-VLANs-with-DHCP-Server
 
 ## Contextualization
-
+In this example, two VLANs were created using the Gigabit ports in "Trunk" mode on the switches to automatically divide the IP addresses across the administration and laboratory sectors. The switches connected to the computers are in "Access" mode.
 
 ## Devices:
 - 9 - Straight-Through Cable
