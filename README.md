@@ -10,6 +10,6 @@ In this example, two VLANs were created using the Gigabit ports in "Trunk" mode 
 - 1 - DHCP Server
 
 ## Schematic Project
-![image](https://github.com/KaikyM/Packet-Tracer-Two-VLANs-with-DHCP-Server/assets/127446435/ed26f42b-a163-48b2-bea1-3153f005c5b9)
+![image](https://github.com/KaikyM/Packet-Tracer-Two-VLANs-with-DHCP-Server/assets/127446435/7700cfe6-643f-4a7b-ac43-89ee0aea3d97)
 - [Download This Packet Tracer Project Here](Two-VLANs-with-DHCP-Server.pkt)
 - I used Cisco Packet Tracer: https://www.netacad.com/courses/packet-tracer
